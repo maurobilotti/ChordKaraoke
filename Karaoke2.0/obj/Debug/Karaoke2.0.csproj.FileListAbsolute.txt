@@ -1,0 +1,22 @@
+C:\Users\maurobilotti\Documents\Visual Studio 2017\Projects\Karaoke2.0\Karaoke2.0\bin\Debug\Karaoke2.0.exe.config
+C:\Users\maurobilotti\Documents\Visual Studio 2017\Projects\Karaoke2.0\Karaoke2.0\bin\Debug\Karaoke2.0.exe
+C:\Users\maurobilotti\Documents\Visual Studio 2017\Projects\Karaoke2.0\Karaoke2.0\bin\Debug\Karaoke2.0.pdb
+C:\Users\maurobilotti\Documents\Visual Studio 2017\Projects\Karaoke2.0\Karaoke2.0\obj\Debug\Karaoke2.0.csprojAssemblyReference.cache
+C:\Users\maurobilotti\Documents\Visual Studio 2017\Projects\Karaoke2.0\Karaoke2.0\obj\Debug\Karaoke2._0.Properties.Resources.resources
+C:\Users\maurobilotti\Documents\Visual Studio 2017\Projects\Karaoke2.0\Karaoke2.0\obj\Debug\Karaoke2.0.csproj.GenerateResource.cache
+C:\Users\maurobilotti\Documents\Visual Studio 2017\Projects\Karaoke2.0\Karaoke2.0\obj\Debug\Karaoke2.0.csproj.CoreCompileInputs.cache
+C:\Users\maurobilotti\Documents\Visual Studio 2017\Projects\Karaoke2.0\Karaoke2.0\obj\Debug\Karaoke2.0.exe
+C:\Users\maurobilotti\Documents\Visual Studio 2017\Projects\Karaoke2.0\Karaoke2.0\obj\Debug\Karaoke2.0.pdb
+C:\Users\maurobilotti\Documents\Visual Studio 2017\Projects\Karaoke2.0\Karaoke2.0\obj\Debug\Karaoke2._0.FrmKaraoke.resources
+C:\Users\maurobilotti\Documents\Visual Studio 2017\Projects\Karaoke2.0\Karaoke2.0\obj\Debug\Karaoke2._0.FrmPrincipal.resources
+C:\Projects\Karaoke2.0\Karaoke2.0\bin\Debug\Karaoke2.0.exe.config
+C:\Projects\Karaoke2.0\Karaoke2.0\bin\Debug\Karaoke2.0.exe
+C:\Projects\Karaoke2.0\Karaoke2.0\bin\Debug\Karaoke2.0.pdb
+C:\Projects\Karaoke2.0\Karaoke2.0\obj\Debug\Karaoke2.0.csprojAssemblyReference.cache
+C:\Projects\Karaoke2.0\Karaoke2.0\obj\Debug\Karaoke2._0.FrmPrincipal.resources
+C:\Projects\Karaoke2.0\Karaoke2.0\obj\Debug\Karaoke2._0.FrmKaraoke.resources
+C:\Projects\Karaoke2.0\Karaoke2.0\obj\Debug\Karaoke2._0.Properties.Resources.resources
+C:\Projects\Karaoke2.0\Karaoke2.0\obj\Debug\Karaoke2.0.csproj.GenerateResource.cache
+C:\Projects\Karaoke2.0\Karaoke2.0\obj\Debug\Karaoke2.0.csproj.CoreCompileInputs.cache
+C:\Projects\Karaoke2.0\Karaoke2.0\obj\Debug\Karaoke2.0.exe
+C:\Projects\Karaoke2.0\Karaoke2.0\obj\Debug\Karaoke2.0.pdb
